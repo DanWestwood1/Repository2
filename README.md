@@ -2,31 +2,45 @@
 
 ## 3.5 Fundamentals of data representation
 
-### 3.5.1 Number systems
-+ natural numbers
+### 3.5.1 Number systems + natural numbers
 
-**definition**: those are numbers used for counting.
+#### Natural Numbers
+**Definition**: Numbers which are countable.
+**Examples**: 0,1,2,3,4
 
-**examples**: 0,1,2,3,4
-``` 
-this is an area for code or examples etc
+#### Real Numbers
+**Definition**: Numbers which are possible
+**Examples**: 0, 1.1, 2.1, -78
+ 
+#### Rational Numbers
+**Definition**: Numbers which can be represented as a fraction
+**Examples**: 1/7, 2/9, 7/11
 
-Counting uses natural number
-A set of natural number can expressed as:
-N={0,1,2,3...}
+#### Irrational Numbers
+**Definition**: Numbers which cannot be represented as a fraction
+**Examples**: √2, √3
 
-```
+#### Ordinal Numbers
+**Definition**: Numbers which represent the position of an item in a list
 
-+ integer numbers
-+ rational numbers
-+ irrational numbers
-+ real numbers
-+ ordinal numbers
+#### Integer Numbers
+**Definition**: Whole numbers
+**Examples**: 1,2,3,4,5
 
 ### 3.5.2 Number bases
-+ base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
-+ base 10
-+ base 16
+
+#### Base 2
+The binary number system as a whole.
+Each _placement value_ is represented as a power of 2, unlike in denary, where it is represented as 10
+These numbers can be denoted as 1010<sub>2</sub>. 
+See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
+
+#### Base 10
+The denary system
+These numbers can be denoted as 16<sub>10</sub>.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/16/Denary-3140.PNG "Denary Placement Values")
+
+#### Base 16
 + conversion between denary, binary and hex
 
 ### 3.5.3 Units of information
