@@ -38,7 +38,7 @@ See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) 
 #### Base 10
 The denary system
 These numbers can be denoted as 16<sub>10</sub>.
-![alt text](https://upload.wikimedia.org/wikipedia/commons/1/16/Denary-3140.PNG "Denary Placement Values")
+![alt text](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/Denary.PNG "Denary Placement Values")
 
 #### Base 16
 + conversion between denary, binary and hex
