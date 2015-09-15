@@ -30,17 +30,20 @@
 ### 3.5.2 Number bases
 
 #### Base 2
-The binary number system as a whole.
+The binary number system.
 Each _placement value_ is represented as a power of 2, unlike in denary, where it is represented as 10
 These numbers can be denoted as 1010<sub>2</sub>. 
 See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
 
 #### Base 10
-The denary system
+The denary system.
 These numbers can be denoted as 16<sub>10</sub>.
 ![alt text](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/Denary.PNG "Denary Placement Values")
 
 #### Base 16
+The Hexadecimal system.
+These numbers can be denoted as 22<sub>16</sub>.
+Because denary does not have 16 symbols to use, hexadecimal uses A,B,C,D,E,F
 + conversion between denary, binary and hex
 
 ### 3.5.3 Units of information
@@ -56,8 +59,17 @@ These numbers can be denoted as 16<sub>10</sub>.
 
 ### 3.5.5 Information encoding system
 
-#### Character form of a decimal digit
-#### ASCII and Unicode
+#### ASCII
+
+The American Standard Code for Information Interchange is a way of representing characters on a computer.
+It can represent 128 unique different characters (numbers, symbols and letters)
+Because the numbers in ASCII are considered as characters, if you try to add two ASCII numbers together, The two characters are just put next to each other.
+Eg, 6+6 = 66
+
+#### Unicode
+
+Unicode was invented later than ASCII as a way of storing different alphabets other than the english alphabet on computers.
+Unicode version UTF - 8 uses 8 bits, UTF - 16 uses 16 bits and UTF - 32 uses 32 bits
 #### Error checking and correction
 
 ### 3.5.6 Representing images, sound and other data
