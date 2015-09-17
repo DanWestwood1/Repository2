@@ -38,7 +38,7 @@ See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) 
 #### Base 10
 The denary system.
 These numbers can be denoted as 16<sub>10</sub>.
-![alt text](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/Denary.PNG "Denary Placement Values")
+![Image](/Images/Denary.PNG "Denary Placement Values")
 
 #### Base 16
 The Hexadecimal system.
@@ -46,7 +46,7 @@ These numbers can be denoted as 22<sub>16</sub>.
 Because denary does not have 16 symbols to use, hexadecimal uses A,B,C,D,E,F
 
 The denary, binary and hexadecimal numbers up to 15 are featured below:
-![alt text](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/DBH.PNG "Denary Placement Values")
+![Image](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/DBH.PNG "Denary Placement Values")
 
 
 ### 3.5.3 Units of information
@@ -55,7 +55,7 @@ nibble = 4 bits
 byte = 8 bits
 
 The rest of the units of data are below:
-![alt text](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/Bits.PNG "Denary Placement Values")
+![Image](C:/home/bourne-grammar.lincs.sch.uk/98dw11/Documents/Year 12/Computer Science 2015 - 2016/Images/Bits.PNG "Denary Placement Values")
 
 ### 3.5.4 Binary number system
 
