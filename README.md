@@ -46,7 +46,7 @@ These numbers can be denoted as 22<sub>16</sub>.
 Because denary does not have 16 symbols to use, hexadecimal uses A,B,C,D,E,F
 
 The denary, binary and hexadecimal numbers up to 15 are featured below:
-![Image](/Images/DBH.PNG "Denary Placement Values")
+![Image](/Images/DBH.png "Denary Placement Values")
 
 
 ### 3.5.3 Units of information
@@ -55,7 +55,7 @@ nibble = 4 bits
 byte = 8 bits
 
 The rest of the units of data are below:
-![Image](/Images/Bits.PNG "Denary Placement Values")
+![Image](/Images/Bits.png "Denary Placement Values")
 
 ### 3.5.4 Binary number system
 
