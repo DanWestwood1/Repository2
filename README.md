@@ -55,7 +55,7 @@ nibble = 4 bits
 byte = 8 bits
 
 The rest of the units of data are below:
-![Image](/Images/Bits.xcf "Denary Placement Values")
+![Image](/Images/Bits.png "Denary Placement Values")
 
 ### 3.5.4 Binary number system
 
