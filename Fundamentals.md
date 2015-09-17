@@ -128,8 +128,8 @@ The only problem with this method of checking is if two bits in one packet chang
 ##### Check Sum
 In check sum methods, the binary is divided into packets which have a certain number of bits (eg; 4).
 These packets are then added together to give a binary number, which has a denary number as well. The check sum value is calculated on both ends of transmission and must be equal on both computers, in order for the data to be confirmed valid. If the checksum values are equal, no errors have occurred. The only problem is if all the bits in a packet change, resulting in the check sum still adding up to the original value. 
-Eg.
 ```
+Eg;
 0010 = 2	0110 = 6
 0100 = 4	0100 = 4
 0001 = 1	0011 = 3
