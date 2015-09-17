@@ -118,6 +118,24 @@ Unfortunately, if the number in question undergoes two changes during transmissi
 
 ##### Majority voting
 
+Bits are gruped in threes before transmission, in this method of checking, and a bit which represents what 2 or more of the three bits is, is sent along as well. 
+Eg;
+0 1 0 would be sent with a 0 
+1 0 1 would be sent with a 1
+In the event that a bit changes, the majority bit would then be false for that packet, which the receiving computer would notice, and flag as corrupt data.
+The only problem with this method of checking is if two bits in one packet change. The majority bit would still be true, but the resulting binary number would not be correct.
+
+##### Check Sum
+In check sum methods, the binary is divided into packets which have a certain number of bits (eg; 4).
+These packets are then added together to give a binary number, which has a denary number as well. The check sum value is calculated on both ends of transmission and must be equal on both computers, in order for the data to be confirmed valid. If the checksum values are equal, no errors have occurred. The only problem is if all the bits in a packet change, resulting in the check sum still adding up to the original value. 
+Eg;
+0010 = 2	0110 = 6
+0100 = 4	0100 = 4
+0001 = 1	0011 = 3
+1001 = 9	0011 = 3
+Both values of these are 16
+
+##### Check digit
 
 
 ### 3.5.6 Representing images, sound and other data
